@@ -6,3 +6,4 @@ requests
 duckdb
 seaborn
 pyarrow
+scipy
